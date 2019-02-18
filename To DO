@@ -1,0 +1,28 @@
+
+* Repensar organização das imagens
+** Fazer árvore de caminhos
+*** Variantes de imagens serão salvas na pasta ou apenas durante treinamento?
+**** Aumentar número de variantes?
+
+* Salvar e implementar função para utilizar rede treinada
+** Identificar arquivos que precisam ser salvo após treino
+*** Implementar função para testar imagens em rede já treinada.
+
+* Implemetar TensorBoard
+
+* Gerar gráficos
+** Gráfico confusão
+*** Gráfico de aprendizagem e erro.
+****  Gráfico de comparação de acerto com tamanho do banco de dados.
+
+* Unir programas
+** Incluir chamada do programa de imagens dentro da CNN
+
+* Criar Interface
+** Criar inteface com botões de treino, teste.
+*** Adicionar local para visualizar precisão da CNN atual.
+**** Criar "janelas" para gráficos e histórico.
+
+* Implementar outras redes para comparação
+** Implementar VGG16
+*** Implementar ResNet
