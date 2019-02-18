@@ -8,6 +8,8 @@
 ** Identificar arquivos que precisam ser salvo após treino
 *** Implementar função para testar imagens em rede já treinada.
 
+* Imprimir progresso do treino da rede
+
 * Implemetar TensorBoard
 
 * Gerar gráficos
