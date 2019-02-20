@@ -4,9 +4,9 @@
 *** Variantes de imagens serão salvas na pasta ou apenas durante treinamento? - DONE
 **** Aumentar número de variantes? - DONE
 
-* Salvar e implementar função para utilizar rede treinada
-** Identificar arquivos que precisam ser salvo após treino
-*** Implementar função para testar imagens em rede já treinada.
+* Salvar e implementar função para utilizar rede treinada - DONE
+** Identificar arquivos que precisam ser salvo após treino - DONE
+*** Implementar função para testar imagens em rede já treinada. - DONE
 
 * Imprimir progresso do treino da rede
 
